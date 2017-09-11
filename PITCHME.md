@@ -59,20 +59,25 @@ Presentación del proyecto en TIC II
 - Aprendizaje Autónomo |
 - ... |
 +++
-``` 
-Si quires ir rápido camina solo, si quieres llegar lejos trabaja en equipo.
-```
-+++ 
+> `Si quires ir rápido camina solo, si quieres llegar lejos trabaja en equipo.`
++++
 # ¿Vuestros objetivos?
 ---
-# 
+# ¿Qué vamos a aprender?
 ---
+# ¿ HTML y/o CSS ?
+### Lenguaje de marcado para crear páginas web.
 ---
+# Javascript
+### Lenguaje de programación interpretado.
+# Cloud Computing
+- **Programar** en la nube |
+- **Guardar** en la nube |
+- **Compartir** en la nube|
+- **Ejecutar** en la nube|
+- ...|
 ---
----
----
----
----
+# Pero de momento ... algo básico ;)
 ---
 # Emails
 http://j.mp/emails1718
@@ -81,9 +86,3 @@ http://j.mp/emails1718
 ---
 # Ahora sí!
 ## A Empezar!!
----
-# Imágenes Utilizadas
-WTF -> https://pixabay.com/es/wtf-mensajes-de-texto-1934220/
-OMG -> https://pixabay.com/es/dios-mio-oh-dios-m%C3%ADo-1934214/
-
-
