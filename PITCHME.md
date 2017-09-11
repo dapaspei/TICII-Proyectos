@@ -77,10 +77,10 @@ Presentación del proyecto en TIC II
 - **Compartir** en la nube|
 - **Ejecutar** en la nube|
 - ...|
----?image=assets/meteor-logo.png&size=cover
+---?image=assets/meteor-logo.png&size=contain
 ---
 # Para conseguir hacer algo como ...
----?image=assets/pitlane1.jpg&size=cover
+---?image=assets/pitlane1.jpg&size=contain
 ---?image=assets/pitlane2.jpg&size=cover
 ---?image=assets/pitlane3.jpg&size=cover
 ---
