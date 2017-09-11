@@ -4,22 +4,22 @@ Presentación del proyecto en TIC II
 
 ---
 # ¿Quién soy?
-### Daniel Pastor Peidro (@dapaspei)
-* Apasionado de la informática y la tecnología.
-* Docente/Profesor de Informática.
-* Padre.
-* …
+#### Daniel Pastor Peidro (@dapaspei)
+- Apasionado de la informática y la tecnología. |
+- Docente/Profesor de Informática.|
+- Padre.|
+- …
 +++
 # ¿Y vosotros, quiénes sois?
 +++
 # ¿Qué me gusta?
-
-* Investigar y probar nuevos programas/apps.
-*  Hacer presentaciones `frikis`
+- Investigar y probar programas/apps |
+- Hacer presentaciones `frikis`|
+- Buscar por Internet ...|
+- ...
 +++
 # ¿Y a vosotros,
 ## qué os gusta?
-
 - Tus puntos fuertes |
 - Tus puntos débiles |
 - Tus intereses de futuro |
