@@ -20,8 +20,7 @@ Presentación del proyecto en TIC II
 - Buscar por Internet ... |
 - ...|
 ---
-# ¿Y a vosotros,
-## qué os gusta?
+# ¿Y a vosotros?
 - Tus puntos fuertes |
 - Tus puntos débiles |
 - Tus intereses de futuro |
@@ -29,7 +28,7 @@ Presentación del proyecto en TIC II
 - Tu motivación actual |  
 - ¿Qué esperas conseguir en esta asignatura? |
 --- 
-# Después de las presentaciones ...
+# Tras habernos presentado ...
 ---?image=assets/lego.jpg&size=cover
 ---
 # Reto #1
@@ -39,13 +38,13 @@ Presentación del proyecto en TIC II
 ---
 # ¿En cuánto tiempo dices???
 ---
-# ¡¿30h!?!?!??!?!?
+# ¡¿30h!?
 ---
 ### ¡Desde YA!
 ### Hasta el 2 de noviembre!
 ---?image=assets/wtf.jpg&size=cover
 ---
-# <a href="http://hackertyper.net" target=“_blank”>¿Empezamos?</a>
+# <a href="http://hackertyper.net" target=“_blank”>Empezamos!</a>
 ---
 # Nooo!!
 ---
