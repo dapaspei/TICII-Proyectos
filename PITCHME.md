@@ -17,13 +17,15 @@ Presentación del proyecto en TIC II
 * Investigar y probar nuevos programas/apps.
 *  Hacer presentaciones `frikis`
 +++
-# ¿Y a vosotros, qué os gusta?
-* Tus puntos fuertes |
-* Tus puntos débiles |
-* Tus intereses de futuro |
-* Lo que te ha faltado conseguir |
-* Tu motivación actual |  
-* Tus expectativas con esta asignatura |
+# ¿Y a vosotros,
+## qué os gusta?
+
+- Tus puntos fuertes |
+- Tus puntos débiles |
+- Tus intereses de futuro |
+- Lo que te ha faltado conseguir |
+- Tu motivación actual |  
+- Tus expectativas con esta asignatura |
 --- 
 # Después de las presentaciones ...
 ---?image=assets/lego.jpg&size=cover
