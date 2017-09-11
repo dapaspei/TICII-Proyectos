@@ -46,7 +46,7 @@ Presentación del proyecto en TIC II
 ---
 # Nooo!!
 ---
-![Video](https://www.youtube.com/watch?v=b2UyFJ_GMZc)
+![Video](https://www.youtube.com/embed/b2UyFJ_GMZc)
 ---
 ---
 ---
