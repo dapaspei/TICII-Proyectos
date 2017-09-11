@@ -77,12 +77,22 @@ Presentación del proyecto en TIC II
 - **Compartir** en la nube|
 - **Ejecutar** en la nube|
 - ...|
+---?image=assets/meteor-logo.png&size=cover
+---
+# Para conseguir hacer algo como ...
+---?image=assets/pitlane1.jpg&size=cover
+---?image=assets/pitlane2.jpg&size=cover
+---?image=assets/pitlane3.jpg&size=cover
 ---
 # Pero de momento ... algo básico ;)
 ---
 > `Todo largo camino comienza con un solo paso.`
 ---
 # [1. Algoritmos](https://docs.google.com/document/d/1xLLFB1-Sk1U88kGL_gQNx-VYNG5K0n9kAbD2U8aVLQc/edit?usp=sharing)
+---
+# [2. Internet](https://docs.google.com/document/d/1ALrIq_SQNWTcab12Tvn0886p0V83InW2xMOp7iI_UA0/edit)
+---
+# [3. Funciones](https://docs.google.com/document/d/1rgkc4493GIdcFcbylb60NrXUzPc-7Y4oSHYe0j_vals/edit)
 ---
 # Emails
 http://j.mp/emails1718
