@@ -35,14 +35,14 @@ Presentación del proyecto en TIC II
 # Reto #1
 - ¿Sois capaces de crear una app para móvil... |
 - ... con HTML, CSS y Javascript? |
----
 ---?image=assets/omg.jpg&size=cover
 ---
 # ¿En cuánto tiempo dices???
+---
 # ¡¿30h!?!?!??!?!?
+---
 ### ¡Desde YA!
 ### Hasta el 2 de noviembre!
----
 ---?image=assets/wtf.jpg&size=cover
 ---
 # <a href="http://hackertyper.net" target=“_blank”>¿Empezamos?</a>
@@ -56,10 +56,12 @@ Presentación del proyecto en TIC II
 - Compromiso |
 - Decisión |
 - Quitar el miedo |
-- Aprendizaje Autónomo
-- ...
+- Aprendizaje Autónomo |
+- ... |
 +++
-> Si quires ir rápido camina solo, si quieres llegar lejos trabaja en equipo.
+``` 
+Si quires ir rápido camina solo, si quieres llegar lejos trabaja en equipo.
+```
 +++ 
 # ¿Vuestros objetivos?
 ---
@@ -73,7 +75,7 @@ Presentación del proyecto en TIC II
 ---
 ---
 # Emails
-## http://j.mp/emails1718
+http://j.mp/emails1718
 ---
 > `Con mis maestros he aprendido mucho; con mis colegas, más; con mis alumnos todavía más.`
 ---
