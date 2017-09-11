@@ -10,16 +10,16 @@ Presentación del proyecto en TIC II
 - Docente/Profesor de Informática.|
 - Padre.|
 - … |
-+++
+---
 # ¿Y vosotros, quiénes sois?
-+++
+---
 # ¿Qué me gusta?
 
 - Investigar y probar programas y apps |
 - Hacer presentaciones “frikis” |
 - Buscar por Internet ... |
 - ...|
-+++
+---
 # ¿Y a vosotros,
 ## qué os gusta?
 - Tus puntos fuertes |
@@ -58,9 +58,9 @@ Presentación del proyecto en TIC II
 - Quitar el miedo |
 - Aprendizaje Autónomo |
 - ... |
-+++
+---
 > `Si quires ir rápido camina solo, si quieres llegar lejos trabaja en equipo.`
-+++
+---
 # ¿Vuestros objetivos?
 ---
 # ¿Qué vamos a aprender?
