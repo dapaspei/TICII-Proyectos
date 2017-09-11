@@ -31,15 +31,22 @@ Presentación del proyecto en TIC II
 --- 
 # Después de las presentaciones ...
 ---?image=assets/lego.jpg&size=cover
-# Reto #1 |
-# ¿Sois capaces de crear una app para móvil... |
-# ... con HTML, CSS y Javascript? |
+---
+# Reto #1
+- ¿Sois capaces de crear una app para móvil... |
+- ... con HTML, CSS y Javascript? |
 ---
 # ¿En cuánto tiempo dices???
+---?image=assets/wtf.jpg&size=cover
 # ¡¿30h!?!?!??!?!?
-# :-OO
-# <a href="http://hackertyper.net" _blank>¿Empezamos?</a>
-
+---
+---?image=assets/omg.jpg&size=cover
+---
+# <a href="http://hackertyper.net" target=“_blank”>¿Empezamos?</a>
+---
+# Nooo!!
+---
+![Video](https://www.youtube.com/watch?v=b2UyFJ_GMZc)
 ---
 ---
 ---
@@ -54,4 +61,8 @@ Presentación del proyecto en TIC II
 ---
 > `Con mis maestros he aprendido mucho; con mis colegas, más; con mis alumnos todavía más.`
 ---
+# Créditos
+WTF: https://pixabay.com/es/wtf-mensajes-de-texto-1934220/
+OMG: https://pixabay.com/es/dios-mio-oh-dios-m%C3%ADo-1934214/
+
 
