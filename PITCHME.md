@@ -16,7 +16,7 @@ Presentación del proyecto en TIC II
 # ¿Qué me gusta?
 
 - Investigar y probar programas y apps |
-- Hacer presentaciones `frikis` |
+- Hacer presentaciones “frikis” |
 - Buscar por Internet ... |
 - ...|
 +++
