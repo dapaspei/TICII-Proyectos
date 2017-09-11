@@ -8,15 +8,15 @@ Presentación del proyecto en TIC II
 - Apasionado de la informática y la tecnología. |
 - Docente/Profesor de Informática.|
 - Padre.|
-- …
+- … |
 +++
 # ¿Y vosotros, quiénes sois?
 +++
 # ¿Qué me gusta?
-- Investigar y probar programas/apps |
+- Investigar y probar programas/apps|
 - Hacer presentaciones `frikis`|
 - Buscar por Internet ...|
-- ...
+- ...|
 +++
 # ¿Y a vosotros,
 ## qué os gusta?
