@@ -27,7 +27,7 @@ Presentación del proyecto en TIC II
 - Tus intereses de futuro |
 - Lo que te ha faltado conseguir |
 - Tu motivación actual |  
-- ¿Qué esperas conseguir con esta asignatura? |
+- ¿Qué esperas conseguir en esta asignatura? |
 --- 
 # Después de las presentaciones ...
 ---?image=assets/lego.jpg&size=cover
@@ -65,11 +65,12 @@ Presentación del proyecto en TIC II
 ---
 # ¿Qué vamos a aprender?
 ---
-# ¿ HTML y/o CSS ?
+# ¿ HTML/CSS ?
 ### Lenguaje de marcado para crear páginas web.
 ---
 # Javascript
 ### Lenguaje de programación interpretado.
+---
 # Cloud Computing
 - **Programar** en la nube |
 - **Guardar** en la nube |
@@ -78,6 +79,10 @@ Presentación del proyecto en TIC II
 - ...|
 ---
 # Pero de momento ... algo básico ;)
+---
+> `Todo largo camino comienza con un solo paso.`
+---
+# [1. Algoritmos](https://docs.google.com/document/d/1xLLFB1-Sk1U88kGL_gQNx-VYNG5K0n9kAbD2U8aVLQc/edit?usp=sharing)
 ---
 # Emails
 http://j.mp/emails1718
