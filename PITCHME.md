@@ -81,8 +81,8 @@ Presentación del proyecto en TIC II
 ---
 # Para conseguir hacer algo como ...
 ---?image=assets/pitlane1.jpg&size=contain
----?image=assets/pitlane2.jpg&size=cover
----?image=assets/pitlane3.jpg&size=cover
+---?image=assets/pitlane2.jpg&size=contain
+---?image=assets/pitlane3.jpg&size=contain
 ---
 # Pero de momento ... algo básico ;)
 ---
