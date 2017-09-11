@@ -56,7 +56,10 @@ Presentación del proyecto en TIC II
 - Compromiso |
 - Decisión |
 - Quitar el miedo |
-- 
+- Aprendizaje Autónomo
+- ...
++++
+> Si quires ir rápido camina solo, si quieres llegar lejos trabaja en equipo.
 +++ 
 # ¿Vuestros objetivos?
 ---
@@ -78,7 +81,7 @@ Presentación del proyecto en TIC II
 ## A Empezar!!
 ---
 # Imágenes Utilizadas
-![WTF](https://pixabay.com/es/wtf-mensajes-de-texto-1934220/)
-OMG: https://pixabay.com/es/dios-mio-oh-dios-m%C3%ADo-1934214/
+WTF -> https://pixabay.com/es/wtf-mensajes-de-texto-1934220/
+OMG -> https://pixabay.com/es/dios-mio-oh-dios-m%C3%ADo-1934214/
 
 
