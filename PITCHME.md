@@ -27,7 +27,7 @@ Presentación del proyecto en TIC II
 - Tus intereses de futuro |
 - Lo que te ha faltado conseguir |
 - Tu motivación actual |  
-- Tus expectativas con esta asignatura |
+- ¿Qué esperas conseguir con esta asignatura? |
 --- 
 # Después de las presentaciones ...
 ---?image=assets/lego.jpg&size=cover
