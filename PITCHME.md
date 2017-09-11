@@ -59,7 +59,7 @@ Presentación del proyecto en TIC II
 - Aprendizaje Autónomo |
 - ... |
 ---
-> `Si quires ir rápido camina solo, si quieres llegar lejos trabaja en equipo.`
+> `Si quieres ir rápido camina solo, si quieres llegar lejos trabaja en equipo.`
 ---
 # ¿Vuestros objetivos?
 ---
