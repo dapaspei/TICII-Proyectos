@@ -87,9 +87,6 @@ Presentación del proyecto en TIC II
 ---
 # [3. Funciones](https://docs.google.com/document/d/1rgkc4493GIdcFcbylb60NrXUzPc-7Y4oSHYe0j_vals/edit)
 ---
-# Emails
-http://j.mp/emails1718
----
 > `Con mis maestros he aprendido mucho; con mis colegas, más; con mis alumnos todavía más.`
 ---
 # Ahora sí!
