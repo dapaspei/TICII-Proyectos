@@ -36,9 +36,10 @@ Presentación del proyecto en TIC II
 ---
 # ¡¿42h!?
 ---
-### ¡Desde YA!
-### Hasta el 21 de diciembre!
----?image=assets/wtf.jpg&size=cover
+### ¡Desde YA, 
+### hasta el 21 de diciembre!
+
+---?image=assets/wtf.jpg&size=contain
 ---
 # <a href="http://hackertyper.net" target=“_blank”>Empezamos!</a>
 ---
