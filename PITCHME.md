@@ -36,9 +36,10 @@ Presentación del proyecto en TIC II
 ---
 # ¡¿42h!?
 ---
-### ¡Desde YA!
-### Hasta el 21 de diciembre!
----?image=assets/wtf.jpg&size=cover
+### ¡Desde YA, 
+### hasta el 21 de diciembre!
+
+---?image=assets/wtf.jpg&size=contain
 ---
 # <a href="http://hackertyper.net" target=“_blank”>Empezamos!</a>
 ---
@@ -75,9 +76,7 @@ Presentación del proyecto en TIC II
 ---?image=assets/meteor-logo.png&size=contain
 ---
 # Para conseguir hacer algo como ...
----?image=assets/pitlane1.jpg&size=contain
----?image=assets/pitlane2.jpg&size=contain
----?image=assets/pitlane3.jpg&size=contain
+---?image=assets/mobileapps.jpg&size=contain
 ---
 # Pero de momento ... algo básico ;)
 ---
