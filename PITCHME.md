@@ -73,7 +73,6 @@ Presentación del proyecto en TIC II
 - **Compartir** en la nube|
 - **Ejecutar** en la nube|
 - ...|
----?image=assets/meteor-logo.png&size=contain
 ---
 # Para conseguir hacer algo como ...
 ---?image=assets/mobileapps.jpg&size=contain
