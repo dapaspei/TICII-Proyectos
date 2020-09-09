@@ -1,4 +1,4 @@
-# TIC II - Proyectos - 2017/18
+# TIC II - Proyectos - 2020/21
 
 Presentación del proyecto en TIC II
 
@@ -11,18 +11,14 @@ Presentación del proyecto en TIC II
 - Padre.|
 - … |
 ---
-# ¿Y vosotros, quiénes sois?
----
 # ¿Qué me gusta?
 
 - Investigar y probar programas y apps |
-- Hacer presentaciones “frikis” |
-- Buscar por Internet ... |
+- Hacer programas (SAT) |
+- Buscar e investigar en Internet ... |
 - ...|
 ---
 # ¿Y a vosotros?
-- Tus puntos fuertes |
-- Tus puntos débiles |
 - Tus intereses de futuro |
 - Lo que te ha faltado conseguir |
 - Tu motivación actual |  
@@ -38,10 +34,10 @@ Presentación del proyecto en TIC II
 ---
 # ¿En cuánto tiempo dices???
 ---
-# ¡¿30h!?
+# ¡¿42h!?
 ---
 ### ¡Desde YA!
-### Hasta el 2 de noviembre!
+### Hasta el 21 de diciembre!
 ---?image=assets/wtf.jpg&size=cover
 ---
 # <a href="http://hackertyper.net" target=“_blank”>Empezamos!</a>
