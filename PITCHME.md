@@ -89,5 +89,5 @@ Presentación del proyecto en TIC II
 ---
 > `Con mis maestros he aprendido mucho; con mis colegas, más; con mis alumnos todavía más.`
 ---
-# Ahora sí!
-## A Empezar!!
+# Ahora sí, 
+## a trabajar!!!
